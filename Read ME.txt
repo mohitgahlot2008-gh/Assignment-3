@@ -11,6 +11,6 @@ Here using the previous game I have made a new game of collecting coins as much 
 Instrsusction for this game are:-
 	->This game is similar to the previous one we just need to use -> and <- arrows to move the cursor
 	->When the coin falls from the top we need to collide with that to collect that and for increasing our score.
-	->Each time you misses the coin you looses your life, You will get 3 lives use the wisely.
+	->Each time you misses the coin you looses your life, You will get 3 lives use them wisely.
 	->After loosing your all 3 lives the scrren will show you game over notification with you score that how many coins you have collected in that specific game.
   
